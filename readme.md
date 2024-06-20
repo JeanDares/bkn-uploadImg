@@ -22,3 +22,8 @@ Este projeto é um serviço de upload de imagens criado com Node.js, Express, Mu
 - Node.js (versão 14 ou superior)
 - PostgreSQL
 - npm ou yarn
+
+## Rodar o projeto
+
+- npm install
+- npm start
